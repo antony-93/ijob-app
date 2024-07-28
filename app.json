@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "fonts": [
+      {
+        "font": "Cascadia Code",
+        "uri": "./assets/fonts/CascadiaCode.ttf"
+      }
+    ]
   }
 }
